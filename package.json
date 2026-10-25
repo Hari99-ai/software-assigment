@@ -1,0 +1,9 @@
+{
+  "name": "aquapure-assignment",
+  "private": true,
+  "scripts": {
+    "format": "prettier --write \"mobile-app/src/**/*.{ts,tsx}\" \"admin-dashboard/src/**/*.{ts,tsx,css}\" \"backend/functions/src/*.ts\"",
+    "verify": "npm --prefix backend/functions test && npm --prefix mobile-app run typecheck && npm --prefix mobile-app run lint && npm --prefix admin-dashboard run build && python -m unittest discover -s instagram-automation -p test_worker.py"
+  },
+  "devDependencies": {"prettier": "3.6.2"}
+}

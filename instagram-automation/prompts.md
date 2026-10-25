@@ -1,0 +1,3 @@
+Caption system prompt lives in `worker.py::generate_caption`. Facts are JSON data, not instructions. It requires the exact product name, supplied INR price, a call to action, relevant hashtags, and an AI illustration disclosure. No discounts, health claims or certifications may be invented.
+
+Image prompt lives in `worker.py::generate_image`. It requests one product on a neutral studio background without logos, text or certification seals. Generation uses the product name, category and supplied description. The generated asset is an illustration and cannot establish product appearance or specifications. Review representative outputs before enabling unattended publishing; use verified data and do not use generated artwork as manufacturer catalog photography.

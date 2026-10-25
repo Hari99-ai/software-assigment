@@ -1,0 +1,16 @@
+{
+  "name": "AquaPure — one product daily",
+  "active": false,
+  "settings": {"timezone":"Asia/Kolkata", "executionOrder":"v1"},
+  "nodes": [
+    {"id":"daily","name":"Every day at 10 AM IST","type":"n8n-nodes-base.scheduleTrigger","typeVersion":1.2,"position":[0,0],"parameters":{"rule":{"interval":[{"field":"cronExpression","expression":"0 10 * * *"}]}}},
+    {"id":"manual","name":"Manual test","type":"n8n-nodes-base.manualTrigger","typeVersion":1,"position":[0,200],"parameters":{}},
+    {"id":"publisher","name":"Generate validate and publish one product","type":"n8n-nodes-base.httpRequest","typeVersion":4.2,"position":[300,0],"parameters":{"method":"POST","url":"http://publisher:8088/run","authentication":"genericCredentialType","genericAuthType":"httpHeaderAuth","options":{"timeout":600000}},"credentials":{"httpHeaderAuth":{"id":"CONFIGURE_WORKER_AUTH","name":"AquaPure worker Authorization header"}},"retryOnFail":true,"maxTries":3,"waitBetweenTries":30000}
+  ],
+  "connections": {
+    "Every day at 10 AM IST":{"main":[[{"node":"Generate validate and publish one product","type":"main","index":0}]]},
+    "Manual test":{"main":[[{"node":"Generate validate and publish one product","type":"main","index":0}]]}
+  },
+  "pinData": {},
+  "tags": []
+}

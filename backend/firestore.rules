@@ -1,0 +1,56 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    function owner(uid) { return request.auth != null && request.auth.uid == uid; }
+    function admin() { return request.auth != null && get(/databases/$(database)/documents/users/$(request.auth.uid)).data.role == 'admin'; }
+    function validAddress(address) {
+      return address is map && address.fullName is string && address.fullName.size() > 0
+        && address.street is string && address.street.size() > 0
+        && address.city is string && address.city.size() > 0
+        && address.state is string && address.state.size() > 0
+        && address.phone.matches('^[0-9]{10}$') && address.pincode.matches('^[0-9]{6}$');
+    }
+    match /users/{uid} {
+      allow read: if owner(uid) || admin();
+      allow create: if owner(uid) && request.resource.data.role == 'customer'
+        && request.resource.data.keys().hasOnly(['email','displayName','role','createdAt','addresses','phone'])
+        && request.resource.data.email == request.auth.token.email;
+      allow update: if owner(uid) && request.resource.data.diff(resource.data).affectedKeys().hasOnly(['displayName','phone','addresses','fcmToken']);
+      allow delete: if false;
+    }
+    match /products/{id} { allow read: if true; allow write: if false; }
+    match /carts/{uid} { allow read, write: if owner(uid); }
+    match /carts/{uid}/items/{id} { allow read, write: if owner(uid); }
+    match /orders/{id} { allow read: if owner(resource.data.userId) || admin(); allow write: if false; }
+    match /pendingOrders/{id} { allow read, write: if false; }
+    match /serviceBookings/{id} {
+      allow read: if owner(resource.data.userId) || admin();
+      allow create: if owner(request.resource.data.userId)
+        && request.resource.data.keys().hasOnly(['userId','serviceType','purifierDetails','address','preferredDate','preferredTime','contactName','contactPhone','status','createdAt','updatedAt'])
+        && request.resource.data.status == 'pending'
+        && request.resource.data.serviceType in ['installation','amc','repair','filter-replacement','general-servicing']
+        && request.resource.data.preferredDate is timestamp && request.resource.data.preferredDate > request.time
+        && request.resource.data.contactName is string && request.resource.data.contactName.size() > 0
+        && request.resource.data.contactPhone.matches('^[0-9]{10}$')
+        && validAddress(request.resource.data.address)
+        && request.resource.data.createdAt == request.time
+        && request.resource.data.preferredTime is string && request.resource.data.preferredTime.size() > 0;
+      allow update, delete: if false;
+    }
+    match /dealerApplications/{uid} {
+      allow read: if owner(resource.data.userId) || admin();
+      allow create: if owner(uid) && request.resource.data.userId == uid
+        && request.resource.data.status == 'pending'
+        && request.resource.data.keys().hasOnly(['userId','businessName','businessType','gstNumber','address','city','state','pincode','phone','email','yearsInBusiness','status','createdAt'])
+        && request.resource.data.businessName is string && request.resource.data.businessName.size() > 0
+        && request.resource.data.phone.matches('^[0-9]{10}$')
+        && request.resource.data.createdAt == request.time;
+      allow update, delete: if false;
+    }
+    match /notifications/{uid}/messages/{id} {
+      allow read: if owner(uid);
+      allow update: if owner(uid) && request.resource.data.diff(resource.data).affectedKeys().hasOnly(['read']) && request.resource.data.read is bool;
+      allow create, delete: if false;
+    }
+  }
+}

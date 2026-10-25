@@ -1,0 +1,1451 @@
+[
+  {
+    "id": "WP001",
+    "name": "KENT Grand",
+    "category": "water-purifiers",
+    "brand": "KENT",
+    "description": "KENT Grand. RO Purifiers from the manufacturer catalog. Check the listed model and installation compatibility before ordering.",
+    "price": 12499,
+    "wholesalePrice": 9374,
+    "image": "https://cdn.shopify.com/s/files/1/0778/0283/2100/files/kent-new-grand-info-1.webp?v=1787549001",
+    "stock": 20,
+    "available": true,
+    "specifications": {
+      "Model / SKU": "111192",
+      "Product family": "RO Purifiers",
+      "Color": "White"
+    },
+    "rating": 0,
+    "reviewCount": 0,
+    "tags": [
+      "water-purifiers",
+      "ro purifiers"
+    ],
+    "featured": true,
+    "sourceUrl": "https://www.kent.co.in/products/kent-new-grand",
+    "sourceCurrency": "INR",
+    "sourcePrice": "12499.00",
+    "catalogCheckedAt": "2026-10-24",
+    "sampleInventory": true
+  },
+  {
+    "id": "WP002",
+    "name": "KENT Supreme Plus Neo 2Y",
+    "category": "water-purifiers",
+    "brand": "KENT",
+    "description": "KENT Supreme Plus Neo 2Y. RO Purifiers from the manufacturer catalog. Check the listed model and installation compatibility before ordering.",
+    "price": 20499,
+    "wholesalePrice": 15374,
+    "image": "https://cdn.shopify.com/s/files/1/0778/0283/2100/files/kent-supreme-plus-neo-2y-1.webp?v=1786016709",
+    "stock": 27,
+    "available": true,
+    "specifications": {
+      "Model / SKU": "111194B",
+      "Product family": "RO Purifiers",
+      "Color": "Black"
+    },
+    "rating": 0,
+    "reviewCount": 0,
+    "tags": [
+      "water-purifiers",
+      "ro purifiers"
+    ],
+    "featured": true,
+    "sourceUrl": "https://www.kent.co.in/products/kent-supreme-plus-neo-2y",
+    "sourceCurrency": "INR",
+    "sourcePrice": "20499.00",
+    "catalogCheckedAt": "2026-10-24",
+    "sampleInventory": true
+  },
+  {
+    "id": "WP003",
+    "name": "KENT Supreme IoT 2Y",
+    "category": "water-purifiers",
+    "brand": "KENT",
+    "description": "KENT Supreme IoT 2Y. RO Purifiers from the manufacturer catalog. Check the listed model and installation compatibility before ordering.",
+    "price": 21999,
+    "wholesalePrice": 16499,
+    "image": "https://cdn.shopify.com/s/files/1/0778/0283/2100/files/kent-supreme-iot-2y-1.webp?v=1786016199",
+    "stock": 34,
+    "available": true,
+    "specifications": {
+      "Model / SKU": "111195B",
+      "Product family": "RO Purifiers",
+      "Color": "Black"
+    },
+    "rating": 0,
+    "reviewCount": 0,
+    "tags": [
+      "water-purifiers",
+      "ro purifiers"
+    ],
+    "featured": true,
+    "sourceUrl": "https://www.kent.co.in/products/kent-supreme-iot-2y",
+    "sourceCurrency": "INR",
+    "sourcePrice": "21999.00",
+    "catalogCheckedAt": "2026-10-24",
+    "sampleInventory": true
+  },
+  {
+    "id": "WP004",
+    "name": "KENT Ace Plus Neo 2Y",
+    "category": "water-purifiers",
+    "brand": "KENT",
+    "description": "KENT Ace Plus Neo 2Y. RO Purifiers from the manufacturer catalog. Check the listed model and installation compatibility before ordering.",
+    "price": 21499,
+    "wholesalePrice": 16124,
+    "image": "https://cdn.shopify.com/s/files/1/0778/0283/2100/files/kent-ace-plus-neo-2y-1.webp?v=1786016727",
+    "stock": 41,
+    "available": true,
+    "specifications": {
+      "Model / SKU": "111196B",
+      "Product family": "RO Purifiers",
+      "Color": "Black"
+    },
+    "rating": 0,
+    "reviewCount": 0,
+    "tags": [
+      "water-purifiers",
+      "ro purifiers"
+    ],
+    "featured": true,
+    "sourceUrl": "https://www.kent.co.in/products/kent-ace-plus-neo-2y",
+    "sourceCurrency": "INR",
+    "sourcePrice": "21499.00",
+    "catalogCheckedAt": "2026-10-24",
+    "sampleInventory": true
+  },
+  {
+    "id": "WP005",
+    "name": "KENT Ace IoT 2Y",
+    "category": "water-purifiers",
+    "brand": "KENT",
+    "description": "KENT Ace IoT 2Y. RO Purifiers from the manufacturer catalog. Check the listed model and installation compatibility before ordering.",
+    "price": 22999,
+    "wholesalePrice": 17249,
+    "image": "https://cdn.shopify.com/s/files/1/0778/0283/2100/files/kent-ace-iot-2y-1.webp?v=1786016288",
+    "stock": 48,
+    "available": true,
+    "specifications": {
+      "Model / SKU": "111197B",
+      "Product family": "RO Purifiers",
+      "Color": "Black"
+    },
+    "rating": 0,
+    "reviewCount": 0,
+    "tags": [
+      "water-purifiers",
+      "ro purifiers"
+    ],
+    "featured": true,
+    "sourceUrl": "https://www.kent.co.in/products/kent-ace-iot-2y",
+    "sourceCurrency": "INR",
+    "sourcePrice": "22999.00",
+    "catalogCheckedAt": "2026-10-24",
+    "sampleInventory": true
+  },
+  {
+    "id": "WP006",
+    "name": "KENT Crown Alkaline",
+    "category": "water-purifiers",
+    "brand": "KENT",
+    "description": "KENT Crown Alkaline. RO Purifiers from the manufacturer catalog. Check the listed model and installation compatibility before ordering.",
+    "price": 26500,
+    "wholesalePrice": 19875,
+    "image": "https://cdn.shopify.com/s/files/1/0778/0283/2100/files/kent-crown-alkaline-1.webp?v=1785219502",
+    "stock": 55,
+    "available": true,
+    "specifications": {
+      "Model / SKU": "111190",
+      "Product family": "RO Purifiers"
+    },
+    "rating": 0,
+    "reviewCount": 0,
+    "tags": [
+      "water-purifiers",
+      "ro purifiers"
+    ],
+    "featured": true,
+    "sourceUrl": "https://www.kent.co.in/products/kent-crown-alkaline",
+    "sourceCurrency": "INR",
+    "sourcePrice": "26500.00",
+    "catalogCheckedAt": "2026-10-24",
+    "sampleInventory": true
+  },
+  {
+    "id": "WP007",
+    "name": "KENT Marvel Plus-B",
+    "category": "water-purifiers",
+    "brand": "KENT",
+    "description": "KENT Marvel Plus-B. RO Purifiers from the manufacturer catalog. Check the listed model and installation compatibility before ordering.",
+    "price": 12500,
+    "wholesalePrice": 9375,
+    "image": "https://cdn.shopify.com/s/files/1/0778/0283/2100/files/kent-marvel-plus-b-1.webp?v=1784529618",
+    "stock": 62,
+    "available": true,
+    "specifications": {
+      "Model / SKU": "111191B",
+      "Product family": "RO Purifiers",
+      "Color": "Black"
+    },
+    "rating": 0,
+    "reviewCount": 0,
+    "tags": [
+      "water-purifiers",
+      "ro purifiers"
+    ],
+    "featured": false,
+    "sourceUrl": "https://www.kent.co.in/products/kent-marvel-plus-b",
+    "sourceCurrency": "INR",
+    "sourcePrice": "12500.00",
+    "catalogCheckedAt": "2026-10-24",
+    "sampleInventory": true
+  },
+  {
+    "id": "WP008",
+    "name": "KENT Maxx Plus",
+    "category": "water-purifiers",
+    "brand": "KENT",
+    "description": "KENT Maxx Plus. UV Purifiers from the manufacturer catalog. Check the listed model and installation compatibility before ordering.",
+    "price": 11399,
+    "wholesalePrice": 8549,
+    "image": "https://cdn.shopify.com/s/files/1/0778/0283/2100/files/kent-maxx-plus-1.webp?v=1781516653",
+    "stock": 69,
+    "available": true,
+    "specifications": {
+      "Model / SKU": "111186B",
+      "Product family": "UV Purifiers"
+    },
+    "rating": 0,
+    "reviewCount": 0,
+    "tags": [
+      "water-purifiers",
+      "uv purifiers"
+    ],
+    "featured": false,
+    "sourceUrl": "https://www.kent.co.in/products/kent-maxx-plus",
+    "sourceCurrency": "INR",
+    "sourcePrice": "11399.00",
+    "catalogCheckedAt": "2026-10-24",
+    "sampleInventory": true
+  },
+  {
+    "id": "WP009",
+    "name": "KENT Ultra Plus",
+    "category": "water-purifiers",
+    "brand": "KENT",
+    "description": "KENT Ultra Plus. UV Purifiers from the manufacturer catalog. Check the listed model and installation compatibility before ordering.",
+    "price": 9799,
+    "wholesalePrice": 7349,
+    "image": "https://cdn.shopify.com/s/files/1/0778/0283/2100/files/kent-ultra-plus-1.webp?v=1780580509",
+    "stock": 76,
+    "available": true,
+    "specifications": {
+      "Model / SKU": "111187B",
+      "Product family": "UV Purifiers"
+    },
+    "rating": 0,
+    "reviewCount": 0,
+    "tags": [
+      "water-purifiers",
+      "uv purifiers"
+    ],
+    "featured": false,
+    "sourceUrl": "https://www.kent.co.in/products/kent-ultra-plus",
+    "sourceCurrency": "INR",
+    "sourcePrice": "9799.00",
+    "catalogCheckedAt": "2026-10-24",
+    "sampleInventory": true
+  },
+  {
+    "id": "WP010",
+    "name": "KENT Ultra Storage",
+    "category": "water-purifiers",
+    "brand": "KENT",
+    "description": "KENT Ultra Storage. UV Purifiers from the manufacturer catalog. Check the listed model and installation compatibility before ordering.",
+    "price": 8699,
+    "wholesalePrice": 6524,
+    "image": "https://cdn.shopify.com/s/files/1/0778/0283/2100/files/kent-ultra-storage-1_ddb68217-7ab2-434e-b429-010e6d52938d.webp?v=1780581974",
+    "stock": 83,
+    "available": true,
+    "specifications": {
+      "Model / SKU": "111042",
+      "Product family": "UV Purifiers"
+    },
+    "rating": 0,
+    "reviewCount": 0,
+    "tags": [
+      "water-purifiers",
+      "uv purifiers"
+    ],
+    "featured": false,
+    "sourceUrl": "https://www.kent.co.in/products/kent-ultra-storage",
+    "sourceCurrency": "INR",
+    "sourcePrice": "8699.00",
+    "catalogCheckedAt": "2026-10-24",
+    "sampleInventory": true
+  },
+  {
+    "id": "WP011",
+    "name": "KENT Smart Plus",
+    "category": "water-purifiers",
+    "brand": "KENT",
+    "description": "KENT Smart Plus. UV Purifiers from the manufacturer catalog. Check the listed model and installation compatibility before ordering.",
+    "price": 7999,
+    "wholesalePrice": 5999,
+    "image": "https://cdn.shopify.com/s/files/1/0778/0283/2100/files/kent-smart-plus-1.webp?v=1780576029",
+    "stock": 90,
+    "available": true,
+    "specifications": {
+      "Model / SKU": "111188B",
+      "Product family": "UV Purifiers"
+    },
+    "rating": 0,
+    "reviewCount": 0,
+    "tags": [
+      "water-purifiers",
+      "uv purifiers"
+    ],
+    "featured": false,
+    "sourceUrl": "https://www.kent.co.in/products/kent-smart-plus",
+    "sourceCurrency": "INR",
+    "sourcePrice": "7999.00",
+    "catalogCheckedAt": "2026-10-24",
+    "sampleInventory": true
+  },
+  {
+    "id": "WP012",
+    "name": "KENT Basin Water Guard",
+    "category": "water-purifiers",
+    "brand": "KENT",
+    "description": "KENT Basin Water Guard. Gravity Purifiers from the manufacturer catalog. Check the listed model and installation compatibility before ordering.",
+    "price": 2000,
+    "wholesalePrice": 1500,
+    "image": "https://cdn.shopify.com/s/files/1/0778/0283/2100/files/kent-basin-water-guard-1.webp?v=1780576179",
+    "stock": 97,
+    "available": true,
+    "specifications": {
+      "Model / SKU": "111152",
+      "Product family": "Gravity Purifiers"
+    },
+    "rating": 0,
+    "reviewCount": 0,
+    "tags": [
+      "water-purifiers",
+      "gravity purifiers"
+    ],
+    "featured": false,
+    "sourceUrl": "https://www.kent.co.in/products/kent-basin-water-guard",
+    "sourceCurrency": "INR",
+    "sourcePrice": "2000.00",
+    "catalogCheckedAt": "2026-10-24",
+    "sampleInventory": true
+  },
+  {
+    "id": "WP013",
+    "name": "KENT Crystal Alkaline",
+    "category": "water-purifiers",
+    "brand": "KENT",
+    "description": "KENT Crystal Alkaline. RO Purifiers from the manufacturer catalog. Check the listed model and installation compatibility before ordering.",
+    "price": 19999,
+    "wholesalePrice": 14999,
+    "image": "https://cdn.shopify.com/s/files/1/0778/0283/2100/files/kent-crystal-alkaline-1.png?v=1780393403",
+    "stock": 24,
+    "available": true,
+    "specifications": {
+      "Model / SKU": "111189B",
+      "Product family": "RO Purifiers"
+    },
+    "rating": 0,
+    "reviewCount": 0,
+    "tags": [
+      "water-purifiers",
+      "ro purifiers"
+    ],
+    "featured": false,
+    "sourceUrl": "https://www.kent.co.in/products/kent-crystal-alkaline",
+    "sourceCurrency": "INR",
+    "sourcePrice": "19999.00",
+    "catalogCheckedAt": "2026-10-24",
+    "sampleInventory": true
+  },
+  {
+    "id": "WP014",
+    "name": "KENT Grand Star",
+    "category": "water-purifiers",
+    "brand": "KENT",
+    "description": "KENT Grand Star. RO Purifiers from the manufacturer catalog. Check the listed model and installation compatibility before ordering.",
+    "price": 22700,
+    "wholesalePrice": 17025,
+    "image": "https://cdn.shopify.com/s/files/1/0778/0283/2100/files/kent-grand-star-b-1.webp?v=1774433070",
+    "stock": 31,
+    "available": true,
+    "specifications": {
+      "Model / SKU": "111101B",
+      "Product family": "RO Purifiers",
+      "Color": "Black"
+    },
+    "rating": 0,
+    "reviewCount": 0,
+    "tags": [
+      "water-purifiers",
+      "ro purifiers"
+    ],
+    "featured": false,
+    "sourceUrl": "https://www.kent.co.in/products/kent-grand-star",
+    "sourceCurrency": "INR",
+    "sourcePrice": "22700.00",
+    "catalogCheckedAt": "2026-10-24",
+    "sampleInventory": true
+  },
+  {
+    "id": "WP015",
+    "name": "KENT Supreme Plus Neo",
+    "category": "water-purifiers",
+    "brand": "KENT",
+    "description": "KENT Supreme Plus Neo. RO Purifiers from the manufacturer catalog. Check the listed model and installation compatibility before ordering.",
+    "price": 16499,
+    "wholesalePrice": 12374,
+    "image": "https://cdn.shopify.com/s/files/1/0778/0283/2100/files/kent-supreme-plus-neo-1.webp?v=1779167170",
+    "stock": 38,
+    "available": true,
+    "specifications": {
+      "Model / SKU": "111180B",
+      "Product family": "RO Purifiers",
+      "Color": "Black"
+    },
+    "rating": 0,
+    "reviewCount": 0,
+    "tags": [
+      "water-purifiers",
+      "ro purifiers"
+    ],
+    "featured": false,
+    "sourceUrl": "https://www.kent.co.in/products/kent-supreme-plus-neo",
+    "sourceCurrency": "INR",
+    "sourcePrice": "16499.00",
+    "catalogCheckedAt": "2026-10-24",
+    "sampleInventory": true
+  },
+  {
+    "id": "WP016",
+    "name": "KENT Ace Plus Neo",
+    "category": "water-purifiers",
+    "brand": "KENT",
+    "description": "KENT Ace Plus Neo. RO Purifiers from the manufacturer catalog. Check the listed model and installation compatibility before ordering.",
+    "price": 17499,
+    "wholesalePrice": 13124,
+    "image": "https://cdn.shopify.com/s/files/1/0778/0283/2100/files/kent-ace-plus-neo-1.webp?v=1779178876",
+    "stock": 45,
+    "available": true,
+    "specifications": {
+      "Model / SKU": "111178B",
+      "Product family": "RO Purifiers",
+      "Color": "Black"
+    },
+    "rating": 0,
+    "reviewCount": 0,
+    "tags": [
+      "water-purifiers",
+      "ro purifiers"
+    ],
+    "featured": false,
+    "sourceUrl": "https://www.kent.co.in/products/kent-ace-plus-neo",
+    "sourceCurrency": "INR",
+    "sourcePrice": "17499.00",
+    "catalogCheckedAt": "2026-10-24",
+    "sampleInventory": true
+  },
+  {
+    "id": "WD001",
+    "name": "GA Series-White | Table Top  |  Bottled Water Dispenser",
+    "category": "water-dispensers",
+    "brand": "Blue Star",
+    "description": "GA Series-White | Table Top  |  Bottled Water Dispenser. Dispenser from the manufacturer catalog. Check the listed model and installation compatibility before ordering.",
+    "price": 8499,
+    "wholesalePrice": 6374,
+    "image": "https://cdn.shopify.com/s/files/1/0888/8297/0937/files/BWD-Product.png?v=1727245946",
+    "stock": 52,
+    "available": true,
+    "specifications": {
+      "Model / SKU": "BWD3TTGA",
+      "Product family": "Dispenser"
+    },
+    "rating": 0,
+    "reviewCount": 0,
+    "tags": [
+      "water-dispensers",
+      "dispenser"
+    ],
+    "featured": false,
+    "sourceUrl": "https://consumer.bluestarindia.com/products/bwd-ga-series-table-top",
+    "sourceCurrency": "INR",
+    "sourcePrice": "8499.00",
+    "catalogCheckedAt": "2026-10-24",
+    "sampleInventory": true
+  },
+  {
+    "id": "WD002",
+    "name": "GA Series | Floor Standing  |  Bottled Water Dispenser",
+    "category": "water-dispensers",
+    "brand": "Blue Star",
+    "description": "GA Series | Floor Standing  |  Bottled Water Dispenser. Dispenser from the manufacturer catalog. Check the listed model and installation compatibility before ordering.",
+    "price": 9190,
+    "wholesalePrice": 6892,
+    "image": "https://cdn.shopify.com/s/files/1/0888/8297/0937/files/BWD3FMCGA.png?v=1728630593",
+    "stock": 59,
+    "available": true,
+    "specifications": {
+      "Model / SKU": "BWD3FMCGA",
+      "Product family": "Dispenser"
+    },
+    "rating": 0,
+    "reviewCount": 0,
+    "tags": [
+      "water-dispensers",
+      "dispenser"
+    ],
+    "featured": false,
+    "sourceUrl": "https://consumer.bluestarindia.com/products/bwd-ga-series-floor-mounted-storage-cabinet",
+    "sourceCurrency": "INR",
+    "sourcePrice": "9190.00",
+    "catalogCheckedAt": "2026-10-24",
+    "sampleInventory": true
+  },
+  {
+    "id": "WD003",
+    "name": "GA Series With Refrigerator-White| Floor Standing  |  Bottled Water Dispenser",
+    "category": "water-dispensers",
+    "brand": "Blue Star",
+    "description": "GA Series With Refrigerator-White| Floor Standing  |  Bottled Water Dispenser. Dispenser from the manufacturer catalog. Check the listed model and installation compatibility before ordering.",
+    "price": 10100,
+    "wholesalePrice": 7575,
+    "image": "https://cdn.shopify.com/s/files/1/0888/8297/0937/files/BWD3FMRGA.png?v=1728633670",
+    "stock": 66,
+    "available": true,
+    "specifications": {
+      "Model / SKU": "BWD3FMRGA",
+      "Product family": "Dispenser"
+    },
+    "rating": 0,
+    "reviewCount": 0,
+    "tags": [
+      "water-dispensers",
+      "dispenser"
+    ],
+    "featured": false,
+    "sourceUrl": "https://consumer.bluestarindia.com/products/bwd-ga-series-floor-mounted-refrigerated-cabinet",
+    "sourceCurrency": "INR",
+    "sourcePrice": "10100.00",
+    "catalogCheckedAt": "2026-10-24",
+    "sampleInventory": true
+  },
+  {
+    "id": "WD004",
+    "name": "GA Series With Refrigerator-Maroon | Floor Standing  |  Bottled Water Dispenser",
+    "category": "water-dispensers",
+    "brand": "Blue Star",
+    "description": "GA Series With Refrigerator-Maroon | Floor Standing  |  Bottled Water Dispenser. Dispenser from the manufacturer catalog. Check the listed model and installation compatibility before ordering.",
+    "price": 10290,
+    "wholesalePrice": 7718,
+    "image": "https://cdn.shopify.com/s/files/1/0888/8297/0937/files/bwd3fmrga-m_1_bwd3fmrga_maroon_straight_view.png?v=1721411923",
+    "stock": 73,
+    "available": true,
+    "specifications": {
+      "Model / SKU": "BWD3FMRGA-M",
+      "Product family": "Dispenser"
+    },
+    "rating": 0,
+    "reviewCount": 0,
+    "tags": [
+      "water-dispensers",
+      "dispenser"
+    ],
+    "featured": false,
+    "sourceUrl": "https://consumer.bluestarindia.com/products/bwd3fmrga-m-floor-mount-water-dispenser-with-cooling-cabinet",
+    "sourceCurrency": "INR",
+    "sourcePrice": "10290.00",
+    "catalogCheckedAt": "2026-10-24",
+    "sampleInventory": true
+  },
+  {
+    "id": "WD005",
+    "name": "GA Series With Refrigerator-Grey | Floor Standing  |  Bottled Water Dispenser",
+    "category": "water-dispensers",
+    "brand": "Blue Star",
+    "description": "GA Series With Refrigerator-Grey | Floor Standing  |  Bottled Water Dispenser. Dispenser from the manufacturer catalog. Check the listed model and installation compatibility before ordering.",
+    "price": 10290,
+    "wholesalePrice": 7718,
+    "image": "https://cdn.shopify.com/s/files/1/0888/8297/0937/files/bwd3fmrga-g_1_bwd3fmrga_grey_straight_view.png?v=1721411917",
+    "stock": 80,
+    "available": true,
+    "specifications": {
+      "Model / SKU": "BWD3FMRGA-G",
+      "Product family": "Dispenser"
+    },
+    "rating": 0,
+    "reviewCount": 0,
+    "tags": [
+      "water-dispensers",
+      "dispenser"
+    ],
+    "featured": false,
+    "sourceUrl": "https://consumer.bluestarindia.com/products/bwd3fmrga-g-floor-mount-water-dispenser-with-cooling-cabinet",
+    "sourceCurrency": "INR",
+    "sourcePrice": "10290.00",
+    "catalogCheckedAt": "2026-10-24",
+    "sampleInventory": true
+  },
+  {
+    "id": "WM001",
+    "name": "AQUAGOLD 50-23 - Mini Self Priming Regenerative Pump",
+    "category": "water-pumps",
+    "brand": "Crompton",
+    "description": "AQUAGOLD 50-23 - Mini Self Priming Regenerative Pump. Agricultural Pumps from the manufacturer catalog. Check the listed model and installation compatibility before ordering.",
+    "price": 8525,
+    "wholesalePrice": 6394,
+    "image": "https://cdn.shopify.com/s/files/1/0715/1704/5040/files/AquaGola50-23.png?v=1777437718",
+    "stock": 87,
+    "available": true,
+    "specifications": {
+      "Model / SKU": "AQUAGOLD 50-23",
+      "Product family": "Agricultural Pumps",
+      "Color": "Black & Silver"
+    },
+    "rating": 0,
+    "reviewCount": 0,
+    "tags": [
+      "water-pumps",
+      "agricultural pumps"
+    ],
+    "featured": false,
+    "sourceUrl": "https://www.crompton.co.in/products/aquagold-50-23-mini-self-priming-regenerative-pump",
+    "sourceCurrency": "INR",
+    "sourcePrice": "8525.00",
+    "catalogCheckedAt": "2026-10-24",
+    "sampleInventory": true
+  },
+  {
+    "id": "WM002",
+    "name": "OWE1.52(1PH)B-38FS - Openwell Submersible Pump 1.5 HP",
+    "category": "water-pumps",
+    "brand": "Crompton",
+    "description": "OWE1.52(1PH)B-38FS - Openwell Submersible Pump 1.5 HP. Agricultural Pumps from the manufacturer catalog. Check the listed model and installation compatibility before ordering.",
+    "price": 28525,
+    "wholesalePrice": 21394,
+    "image": "https://cdn.shopify.com/s/files/1/0715/1704/5040/files/Artboard0_a7f35d51-c801-4fcf-b435-931efb7e6fbd.png?v=1777290020",
+    "stock": 94,
+    "available": true,
+    "specifications": {
+      "Model / SKU": "OWE1.52(1PH)B-38FS",
+      "Product family": "Agricultural Pumps",
+      "Color": "Black & Silver"
+    },
+    "rating": 0,
+    "reviewCount": 0,
+    "tags": [
+      "water-pumps",
+      "agricultural pumps"
+    ],
+    "featured": false,
+    "sourceUrl": "https://www.crompton.co.in/products/owe1-521phb-38fs-openwell-submersible-pump-1-5-hp",
+    "sourceCurrency": "INR",
+    "sourcePrice": "28525.00",
+    "catalogCheckedAt": "2026-10-24",
+    "sampleInventory": true
+  },
+  {
+    "id": "WM003",
+    "name": "MARVEL PLUS I - Mini Self Priming Regenerative Pump",
+    "category": "water-pumps",
+    "brand": "Crompton",
+    "description": "MARVEL PLUS I - Mini Self Priming Regenerative Pump. Agricultural Pumps from the manufacturer catalog. Check the listed model and installation compatibility before ordering.",
+    "price": 8850,
+    "wholesalePrice": 6638,
+    "image": "https://cdn.shopify.com/s/files/1/0715/1704/5040/files/Artboard0_309076f4-0393-4eb1-a00b-0636ce4ab2d7.png?v=1770121590",
+    "stock": 21,
+    "available": true,
+    "specifications": {
+      "Model / SKU": "MARVEL PLUS I",
+      "Product family": "Agricultural Pumps",
+      "Color": "Blue & Red"
+    },
+    "rating": 0,
+    "reviewCount": 0,
+    "tags": [
+      "water-pumps",
+      "agricultural pumps"
+    ],
+    "featured": false,
+    "sourceUrl": "https://www.crompton.co.in/products/marvel-plus-i-mini-self-priming-regenerative-pump",
+    "sourceCurrency": "INR",
+    "sourcePrice": "8850.00",
+    "catalogCheckedAt": "2026-10-24",
+    "sampleInventory": true
+  },
+  {
+    "id": "WM004",
+    "name": "FLOMAX DURA II - Mini Self Priming Regenerative Pump",
+    "category": "water-pumps",
+    "brand": "Crompton",
+    "description": "FLOMAX DURA II - Mini Self Priming Regenerative Pump. Agricultural Pumps from the manufacturer catalog. Check the listed model and installation compatibility before ordering.",
+    "price": 8675,
+    "wholesalePrice": 6506,
+    "image": "https://cdn.shopify.com/s/files/1/0715/1704/5040/files/Artboard0_eec20e24-6610-47a4-91a7-9987b9d2cdc2.png?v=1770120571",
+    "stock": 28,
+    "available": true,
+    "specifications": {
+      "Model / SKU": "FLOMAX DURA II",
+      "Product family": "Agricultural Pumps",
+      "Color": "Black & Silver"
+    },
+    "rating": 0,
+    "reviewCount": 0,
+    "tags": [
+      "water-pumps",
+      "agricultural pumps"
+    ],
+    "featured": false,
+    "sourceUrl": "https://www.crompton.co.in/products/flomax-dura-ii-mini-self-priming-regenerative-pump",
+    "sourceCurrency": "INR",
+    "sourcePrice": "8675.00",
+    "catalogCheckedAt": "2026-10-24",
+    "sampleInventory": true
+  },
+  {
+    "id": "WM005",
+    "name": "PRIMO II - Mini Self Priming Regenerative Pump",
+    "category": "water-pumps",
+    "brand": "Crompton",
+    "description": "PRIMO II - Mini Self Priming Regenerative Pump. Agricultural Pumps from the manufacturer catalog. Check the listed model and installation compatibility before ordering.",
+    "price": 4600,
+    "wholesalePrice": 3450,
+    "image": "https://cdn.shopify.com/s/files/1/0715/1704/5040/files/Artboard0_22edeb13-1963-478a-ab43-d8ec9f036569.png?v=1770120569",
+    "stock": 35,
+    "available": true,
+    "specifications": {
+      "Model / SKU": "PRIMO II",
+      "Product family": "Agricultural Pumps",
+      "Color": "Blue & Red"
+    },
+    "rating": 0,
+    "reviewCount": 0,
+    "tags": [
+      "water-pumps",
+      "agricultural pumps"
+    ],
+    "featured": false,
+    "sourceUrl": "https://www.crompton.co.in/products/primo-ii-mini-self-priming-regenerative-pump",
+    "sourceCurrency": "INR",
+    "sourcePrice": "4600.00",
+    "catalogCheckedAt": "2026-10-24",
+    "sampleInventory": true
+  },
+  {
+    "id": "WM006",
+    "name": "WIN PLUS II - Mini Self Priming Regenerative Pump",
+    "category": "water-pumps",
+    "brand": "Crompton",
+    "description": "WIN PLUS II - Mini Self Priming Regenerative Pump. Agricultural Pumps from the manufacturer catalog. Check the listed model and installation compatibility before ordering.",
+    "price": 4600,
+    "wholesalePrice": 3450,
+    "image": "https://cdn.shopify.com/s/files/1/0715/1704/5040/files/Artboard0_179b59ec-b317-4503-8c10-6cff0716ee9a.png?v=1770120567",
+    "stock": 42,
+    "available": true,
+    "specifications": {
+      "Model / SKU": "WIN PLUS II",
+      "Product family": "Agricultural Pumps",
+      "Color": "Blue & Red"
+    },
+    "rating": 0,
+    "reviewCount": 0,
+    "tags": [
+      "water-pumps",
+      "agricultural pumps"
+    ],
+    "featured": false,
+    "sourceUrl": "https://www.crompton.co.in/products/win-plus-ii-mini-self-priming-regenerative-pump",
+    "sourceCurrency": "INR",
+    "sourcePrice": "4600.00",
+    "catalogCheckedAt": "2026-10-24",
+    "sampleInventory": true
+  },
+  {
+    "id": "WM007",
+    "name": "4W1/7-BUE-D - Borewell Submersible Pump",
+    "category": "water-pumps",
+    "brand": "Crompton",
+    "description": "4W1/7-BUE-D - Borewell Submersible Pump. Agricultural Pumps from the manufacturer catalog. Check the listed model and installation compatibility before ordering.",
+    "price": 17200,
+    "wholesalePrice": 12900,
+    "image": "https://cdn.shopify.com/s/files/1/0715/1704/5040/files/Artboard5_09047d6e-0d25-406c-8ce6-2c3c5581f507.png?v=1770120564",
+    "stock": 49,
+    "available": true,
+    "specifications": {
+      "Model / SKU": "4W1/7-BUE-D",
+      "Product family": "Agricultural Pumps",
+      "Color": "Black & Silver"
+    },
+    "rating": 0,
+    "reviewCount": 0,
+    "tags": [
+      "water-pumps",
+      "agricultural pumps"
+    ],
+    "featured": false,
+    "sourceUrl": "https://www.crompton.co.in/products/4w1-7-bue-d-borewell-submersible-pump",
+    "sourceCurrency": "INR",
+    "sourcePrice": "17200.00",
+    "catalogCheckedAt": "2026-10-24",
+    "sampleInventory": true
+  },
+  {
+    "id": "WM008",
+    "name": "4W1/10-BUE-D - Borewell Submersible Pump",
+    "category": "water-pumps",
+    "brand": "Crompton",
+    "description": "4W1/10-BUE-D - Borewell Submersible Pump. Agricultural Pumps from the manufacturer catalog. Check the listed model and installation compatibility before ordering.",
+    "price": 18700,
+    "wholesalePrice": 14025,
+    "image": "https://cdn.shopify.com/s/files/1/0715/1704/5040/files/Artboard0_522efc0f-e2c9-462d-8359-28bf94d9da5d.png?v=1770120562",
+    "stock": 56,
+    "available": true,
+    "specifications": {
+      "Model / SKU": "4W1/10-BUE-D",
+      "Product family": "Agricultural Pumps",
+      "Color": "Black & Silver"
+    },
+    "rating": 0,
+    "reviewCount": 0,
+    "tags": [
+      "water-pumps",
+      "agricultural pumps"
+    ],
+    "featured": false,
+    "sourceUrl": "https://www.crompton.co.in/products/4w1-10-bue-d-borewell-submersible-pump",
+    "sourceCurrency": "INR",
+    "sourcePrice": "18700.00",
+    "catalogCheckedAt": "2026-10-24",
+    "sampleInventory": true
+  },
+  {
+    "id": "FC001",
+    "name": "Aquasure Sparkle Series 10,000 Gallon Mineralizing Replacement Shower Filter Cartridge.",
+    "category": "filters-cartridges",
+    "brand": "Aquasure",
+    "description": "Aquasure Sparkle Series 10,000 Gallon Mineralizing Replacement Shower Filter Cartridge.. Water Filters from the manufacturer catalog. Check the listed model and installation compatibility before ordering.",
+    "price": 1274,
+    "wholesalePrice": 956,
+    "image": "https://cdn.shopify.com/s/files/1/0298/3097/1451/files/AF-SPKL1_01.jpg?v=1738003828",
+    "stock": 63,
+    "available": true,
+    "specifications": {
+      "Model / SKU": "AF-SP6M",
+      "Product family": "Water Filters"
+    },
+    "rating": 0,
+    "reviewCount": 0,
+    "tags": [
+      "filters-cartridges",
+      "water filters"
+    ],
+    "featured": false,
+    "sourceUrl": "https://aquasureusa.com/products/af-sp6m",
+    "sourceCurrency": "USD",
+    "sourcePrice": "14.99",
+    "catalogCheckedAt": "2026-10-24",
+    "sampleInventory": true
+  },
+  {
+    "id": "FC002",
+    "name": "Dash Series | 5 Micron Radial Flow Sediment Filter",
+    "category": "filters-cartridges",
+    "brand": "Aquasure",
+    "description": "Dash Series | 5 Micron Radial Flow Sediment Filter. Water Filters from the manufacturer catalog. Check the listed model and installation compatibility before ordering.",
+    "price": 1275,
+    "wholesalePrice": 956,
+    "image": "https://cdn.shopify.com/s/files/1/0298/3097/1451/files/AF-D5SED_01.jpg?v=1739825740",
+    "stock": 70,
+    "available": true,
+    "specifications": {
+      "Model / SKU": "AF-D5SED",
+      "Product family": "Water Filters"
+    },
+    "rating": 0,
+    "reviewCount": 0,
+    "tags": [
+      "filters-cartridges",
+      "water filters"
+    ],
+    "featured": false,
+    "sourceUrl": "https://aquasureusa.com/products/aquasure-dash-series-5-micron-radial-flow-sediment-filter",
+    "sourceCurrency": "USD",
+    "sourcePrice": "15.00",
+    "catalogCheckedAt": "2026-10-24",
+    "sampleInventory": true
+  },
+  {
+    "id": "FC003",
+    "name": "Dash Series | 0.5 Micron Micro-Ceramic Carbon Block Filter",
+    "category": "filters-cartridges",
+    "brand": "Aquasure",
+    "description": "Dash Series | 0.5 Micron Micro-Ceramic Carbon Block Filter. Water Filters from the manufacturer catalog. Check the listed model and installation compatibility before ordering.",
+    "price": 3399,
+    "wholesalePrice": 2549,
+    "image": "https://cdn.shopify.com/s/files/1/0298/3097/1451/files/AF-D05CER.jpg?v=1739813217",
+    "stock": 77,
+    "available": true,
+    "specifications": {
+      "Model / SKU": "AF-D05CER",
+      "Product family": "Water Filters"
+    },
+    "rating": 0,
+    "reviewCount": 0,
+    "tags": [
+      "filters-cartridges",
+      "water filters"
+    ],
+    "featured": false,
+    "sourceUrl": "https://aquasureusa.com/products/aquasure-dash-series-0-5-micron-micro-ceramic-carbon-block-filter-with-technology",
+    "sourceCurrency": "USD",
+    "sourcePrice": "39.99",
+    "catalogCheckedAt": "2026-10-24",
+    "sampleInventory": true
+  },
+  {
+    "id": "FC004",
+    "name": "Dash Series | 0.5 Micron Carbon Block Filter",
+    "category": "filters-cartridges",
+    "brand": "Aquasure",
+    "description": "Dash Series | 0.5 Micron Carbon Block Filter. Water Filters from the manufacturer catalog. Check the listed model and installation compatibility before ordering.",
+    "price": 2975,
+    "wholesalePrice": 2231,
+    "image": "https://cdn.shopify.com/s/files/1/0298/3097/1451/files/dash-series05micron-carbon-block-filter-with-microban-anti-microbial-technology-aquasure.jpg?v=1739813356",
+    "stock": 84,
+    "available": true,
+    "specifications": {
+      "Model / SKU": "AF-D05MCB",
+      "Product family": "Water Filters"
+    },
+    "rating": 0,
+    "reviewCount": 0,
+    "tags": [
+      "filters-cartridges",
+      "water filters"
+    ],
+    "featured": false,
+    "sourceUrl": "https://aquasureusa.com/products/aquasure-dash-series-0-5-micron-carbon-block-filter-with-anti-technology",
+    "sourceCurrency": "USD",
+    "sourcePrice": "35.00",
+    "catalogCheckedAt": "2026-10-24",
+    "sampleInventory": true
+  },
+  {
+    "id": "FC005",
+    "name": "Dash Series | Complete Ultra Filtration Dual Cartridges Filter Bundle",
+    "category": "filters-cartridges",
+    "brand": "Aquasure",
+    "description": "Dash Series | Complete Ultra Filtration Dual Cartridges Filter Bundle. Water Filters from the manufacturer catalog. Check the listed model and installation compatibility before ordering.",
+    "price": 5524,
+    "wholesalePrice": 4143,
+    "image": "https://cdn.shopify.com/s/files/1/0298/3097/1451/files/AF-CD200UF_01.jpg?v=1739824882",
+    "stock": 91,
+    "available": true,
+    "specifications": {
+      "Model / SKU": "AF-CD200UF",
+      "Product family": "Water Filters"
+    },
+    "rating": 0,
+    "reviewCount": 0,
+    "tags": [
+      "filters-cartridges",
+      "water filters"
+    ],
+    "featured": false,
+    "sourceUrl": "https://aquasureusa.com/products/aquasure-dash-series-complete-ultra-filtration-dual-cartridges-filter-bundle",
+    "sourceCurrency": "USD",
+    "sourcePrice": "64.99",
+    "catalogCheckedAt": "2026-10-24",
+    "sampleInventory": true
+  },
+  {
+    "id": "FC006",
+    "name": "Fortitude V2 Series | High Flow 30 Micron Pleated Sediment Filter - Standard (2-Pack)",
+    "category": "filters-cartridges",
+    "brand": "Aquasure",
+    "description": "Fortitude V2 Series | High Flow 30 Micron Pleated Sediment Filter - Standard (2-Pack). Water Filters from the manufacturer catalog. Check the listed model and installation compatibility before ordering.",
+    "price": 3229,
+    "wholesalePrice": 2422,
+    "image": "https://cdn.shopify.com/s/files/1/0298/3097/1451/files/AF-PS-30HFS-X2.jpg?v=1706142573",
+    "stock": 98,
+    "available": true,
+    "specifications": {
+      "Model / SKU": "AF-PS-30HFS-X2",
+      "Product family": "Water Filters"
+    },
+    "rating": 0,
+    "reviewCount": 0,
+    "tags": [
+      "filters-cartridges",
+      "water filters"
+    ],
+    "featured": false,
+    "sourceUrl": "https://aquasureusa.com/products/fortitude-v2-series-high-flow-30-micron-pleated-sediment-filter-standard-size-2-pack",
+    "sourceCurrency": "USD",
+    "sourcePrice": "37.99",
+    "catalogCheckedAt": "2026-10-24",
+    "sampleInventory": true
+  },
+  {
+    "id": "FC007",
+    "name": "Fortitude V2 Series | High Flow 30 Micron Pleated Sediment Filter - Large (2-Pack)",
+    "category": "filters-cartridges",
+    "brand": "Aquasure",
+    "description": "Fortitude V2 Series | High Flow 30 Micron Pleated Sediment Filter - Large (2-Pack). Water Filters from the manufacturer catalog. Check the listed model and installation compatibility before ordering.",
+    "price": 4504,
+    "wholesalePrice": 3378,
+    "image": "https://cdn.shopify.com/s/files/1/0298/3097/1451/files/AF-PS-30HFL-X2.jpg?v=1706142557",
+    "stock": 25,
+    "available": true,
+    "specifications": {
+      "Model / SKU": "AF-PS-30HFL-X2",
+      "Product family": "Water Filters"
+    },
+    "rating": 0,
+    "reviewCount": 0,
+    "tags": [
+      "filters-cartridges",
+      "water filters"
+    ],
+    "featured": false,
+    "sourceUrl": "https://aquasureusa.com/products/aquasure-fortitude-v2-series-high-flow-30-micron-pleated-sediment-filter-large-size-2-pack",
+    "sourceCurrency": "USD",
+    "sourcePrice": "52.99",
+    "catalogCheckedAt": "2026-10-24",
+    "sampleInventory": true
+  },
+  {
+    "id": "FC008",
+    "name": "Fortitude V Series | 20\" High Flow 5 Micron Carbon Block Filter - Large (2-Pack)",
+    "category": "filters-cartridges",
+    "brand": "Aquasure",
+    "description": "Fortitude V Series | 20\" High Flow 5 Micron Carbon Block Filter - Large (2-Pack). Water Filters from the manufacturer catalog. Check the listed model and installation compatibility before ordering.",
+    "price": 6459,
+    "wholesalePrice": 4844,
+    "image": "https://cdn.shopify.com/s/files/1/0298/3097/1451/files/AF-CB5-4520-X2.jpg?v=1706142535",
+    "stock": 32,
+    "available": true,
+    "specifications": {
+      "Model / SKU": "AF-CB5-4520-X2",
+      "Product family": "Water Filters"
+    },
+    "rating": 0,
+    "reviewCount": 0,
+    "tags": [
+      "filters-cartridges",
+      "water filters"
+    ],
+    "featured": false,
+    "sourceUrl": "https://aquasureusa.com/products/aquasure-fortitude-v-series-20-high-flow-5-micron-carbon-block-filter-2-pack",
+    "sourceCurrency": "USD",
+    "sourcePrice": "75.99",
+    "catalogCheckedAt": "2026-10-24",
+    "sampleInventory": true
+  },
+  {
+    "id": "FC009",
+    "name": "Fortitude V Series | 20\" High Flow 30 Micron Pleated Sediment Filter - Large (2-Pack)",
+    "category": "filters-cartridges",
+    "brand": "Aquasure",
+    "description": "Fortitude V Series | 20\" High Flow 30 Micron Pleated Sediment Filter - Large (2-Pack). Water Filters from the manufacturer catalog. Check the listed model and installation compatibility before ordering.",
+    "price": 4504,
+    "wholesalePrice": 3378,
+    "image": "https://cdn.shopify.com/s/files/1/0298/3097/1451/files/AF-PS30-4520-X2.jpg?v=1706142522",
+    "stock": 39,
+    "available": true,
+    "specifications": {
+      "Model / SKU": "AF-PS30-4520-X2",
+      "Product family": "Water Filters"
+    },
+    "rating": 0,
+    "reviewCount": 0,
+    "tags": [
+      "filters-cartridges",
+      "water filters"
+    ],
+    "featured": false,
+    "sourceUrl": "https://aquasureusa.com/products/fortitude-v-series-20-high-flow-30-micron-pleated-sediment-filter",
+    "sourceCurrency": "USD",
+    "sourcePrice": "52.99",
+    "catalogCheckedAt": "2026-10-24",
+    "sampleInventory": true
+  },
+  {
+    "id": "FC010",
+    "name": "Fortitude V Series | 20\" High Capacity 25 Micron Sediment and Carbon Dual Purpose Carbon Filter - Large (2-Pack)",
+    "category": "filters-cartridges",
+    "brand": "Aquasure",
+    "description": "Fortitude V Series | 20\" High Capacity 25 Micron Sediment and Carbon Dual Purpose Carbon Filter - Large (2-Pack). Water Filters from the manufacturer catalog. Check the listed model and installation compatibility before ordering.",
+    "price": 9349,
+    "wholesalePrice": 7012,
+    "image": "https://cdn.shopify.com/s/files/1/0298/3097/1451/files/AF-SCP-4520-X2.jpg?v=1706142510",
+    "stock": 46,
+    "available": true,
+    "specifications": {
+      "Model / SKU": "AF-SCP-4520-X2",
+      "Product family": "Water Filters"
+    },
+    "rating": 0,
+    "reviewCount": 0,
+    "tags": [
+      "filters-cartridges",
+      "water filters"
+    ],
+    "featured": false,
+    "sourceUrl": "https://aquasureusa.com/products/fortitude-v-series-20-high-capacity-25-micron-sediment-and-carbon-dual-purpose-carbon-filter",
+    "sourceCurrency": "USD",
+    "sourcePrice": "109.99",
+    "catalogCheckedAt": "2026-10-24",
+    "sampleInventory": true
+  },
+  {
+    "id": "FC011",
+    "name": "Fortitude V Series | 10\" High-Capacity 25 Micron Dual-Purpose Sediment and Carbon Filter - Standard (2-Pack)",
+    "category": "filters-cartridges",
+    "brand": "Aquasure",
+    "description": "Fortitude V Series | 10\" High-Capacity 25 Micron Dual-Purpose Sediment and Carbon Filter - Standard (2-Pack). Water Filters from the manufacturer catalog. Check the listed model and installation compatibility before ordering.",
+    "price": 6459,
+    "wholesalePrice": 4844,
+    "image": "https://cdn.shopify.com/s/files/1/0298/3097/1451/files/AF-SCP-4510-X2.jpg?v=1706142497",
+    "stock": 53,
+    "available": true,
+    "specifications": {
+      "Model / SKU": "AF-SCP-4510-X2",
+      "Product family": "Water Filters"
+    },
+    "rating": 0,
+    "reviewCount": 0,
+    "tags": [
+      "filters-cartridges",
+      "water filters"
+    ],
+    "featured": false,
+    "sourceUrl": "https://aquasureusa.com/products/fortitude-v-series-10-high-capacity-25-micron-dual-purpose-sediment-and-carbon-filter",
+    "sourceCurrency": "USD",
+    "sourcePrice": "75.99",
+    "catalogCheckedAt": "2026-10-24",
+    "sampleInventory": true
+  },
+  {
+    "id": "FC012",
+    "name": "Fortitude V Series | 10\" High Flow 5 Micron Carbon Block Filter - Standard (2-Pack)",
+    "category": "filters-cartridges",
+    "brand": "Aquasure",
+    "description": "Fortitude V Series | 10\" High Flow 5 Micron Carbon Block Filter - Standard (2-Pack). Water Filters from the manufacturer catalog. Check the listed model and installation compatibility before ordering.",
+    "price": 5354,
+    "wholesalePrice": 4016,
+    "image": "https://cdn.shopify.com/s/files/1/0298/3097/1451/files/AF-CB5-4510-X2.jpg?v=1706142481",
+    "stock": 60,
+    "available": true,
+    "specifications": {
+      "Model / SKU": "AF-CB5-4510-X2",
+      "Product family": "Water Filters"
+    },
+    "rating": 0,
+    "reviewCount": 0,
+    "tags": [
+      "filters-cartridges",
+      "water filters"
+    ],
+    "featured": false,
+    "sourceUrl": "https://aquasureusa.com/products/fortitude-v-series-10-high-flow-5-micron-carbon-block-filter",
+    "sourceCurrency": "USD",
+    "sourcePrice": "62.99",
+    "catalogCheckedAt": "2026-10-24",
+    "sampleInventory": true
+  },
+  {
+    "id": "SP001",
+    "name": "Aquasure Harmony Series Bypass Valve Elbows x 2",
+    "category": "spare-parts",
+    "brand": "Aquasure",
+    "description": "Aquasure Harmony Series Bypass Valve Elbows x 2. Parts from the manufacturer catalog. Check the listed model and installation compatibility before ordering.",
+    "price": 1104,
+    "wholesalePrice": 828,
+    "image": "https://cdn.shopify.com/s/files/1/0298/3097/1451/files/AP-HS-10ELB_01_4d49526d-3f6a-496b-98bc-82bc01b43aee.jpg?v=1784671987",
+    "stock": 67,
+    "available": true,
+    "specifications": {
+      "Model / SKU": "AP-HS-10ELB",
+      "Product family": "Parts",
+      "Size": "1 inch"
+    },
+    "rating": 0,
+    "reviewCount": 0,
+    "tags": [
+      "spare-parts",
+      "parts"
+    ],
+    "featured": false,
+    "sourceUrl": "https://aquasureusa.com/products/aquasure-harmony-series-bypass-valve-1-in-elbow-x-2",
+    "sourceCurrency": "USD",
+    "sourcePrice": "12.99",
+    "catalogCheckedAt": "2026-10-24",
+    "sampleInventory": true
+  },
+  {
+    "id": "SP002",
+    "name": "Aquasure Harmony Series Bypass Valve New",
+    "category": "spare-parts",
+    "brand": "Aquasure",
+    "description": "Aquasure Harmony Series Bypass Valve New. Parts from the manufacturer catalog. Check the listed model and installation compatibility before ordering.",
+    "price": 4249,
+    "wholesalePrice": 3187,
+    "image": "https://cdn.shopify.com/s/files/1/0298/3097/1451/files/AP-HS-BYP01_01.jpg?v=1784671443",
+    "stock": 74,
+    "available": true,
+    "specifications": {
+      "Model / SKU": "AP-HS-BYP01",
+      "Product family": "Parts",
+      "Size": "1 inch"
+    },
+    "rating": 0,
+    "reviewCount": 0,
+    "tags": [
+      "spare-parts",
+      "parts"
+    ],
+    "featured": false,
+    "sourceUrl": "https://aquasureusa.com/products/aquasure-harmony-series-bypass-valve-new-1-in",
+    "sourceCurrency": "USD",
+    "sourcePrice": "49.99",
+    "catalogCheckedAt": "2026-10-24",
+    "sampleInventory": true
+  },
+  {
+    "id": "SP003",
+    "name": "Aqusure 3/4\" Female NPT to 1\" Male NPT Adapter",
+    "category": "spare-parts",
+    "brand": "Aquasure",
+    "description": "Aqusure 3/4\" Female NPT to 1\" Male NPT Adapter. Parts from the manufacturer catalog. Check the listed model and installation compatibility before ordering.",
+    "price": 339,
+    "wholesalePrice": 254,
+    "image": "https://cdn.shopify.com/s/files/1/0298/3097/1451/files/AP-MF10FF34NPT.jpg?v=1753900146",
+    "stock": 81,
+    "available": true,
+    "specifications": {
+      "Model / SKU": "AP-MF10FF34NPT",
+      "Product family": "Parts"
+    },
+    "rating": 0,
+    "reviewCount": 0,
+    "tags": [
+      "spare-parts",
+      "parts"
+    ],
+    "featured": false,
+    "sourceUrl": "https://aquasureusa.com/products/aqusure-3-4-female-npt-to-1-male-npt-adapter",
+    "sourceCurrency": "USD",
+    "sourcePrice": "3.99",
+    "catalogCheckedAt": "2026-10-24",
+    "sampleInventory": true
+  },
+  {
+    "id": "SP004",
+    "name": "Aquasure Brine Tank Overflow Drain Elbow",
+    "category": "spare-parts",
+    "brand": "Aquasure",
+    "description": "Aquasure Brine Tank Overflow Drain Elbow. Parts from the manufacturer catalog. Check the listed model and installation compatibility before ordering.",
+    "price": 169,
+    "wholesalePrice": 127,
+    "image": "https://cdn.shopify.com/s/files/1/0298/3097/1451/products/AP-BTANK-DRAIN_Main.jpg?v=1632176686",
+    "stock": 88,
+    "available": true,
+    "specifications": {
+      "Model / SKU": "AP-BTANK-DRAIN",
+      "Product family": "Parts"
+    },
+    "rating": 0,
+    "reviewCount": 0,
+    "tags": [
+      "spare-parts",
+      "parts"
+    ],
+    "featured": false,
+    "sourceUrl": "https://aquasureusa.com/products/aquasure-brine-tank-overflow-drain-elbow",
+    "sourceCurrency": "USD",
+    "sourcePrice": "1.99",
+    "catalogCheckedAt": "2026-10-24",
+    "sampleInventory": true
+  },
+  {
+    "id": "SP005",
+    "name": "Aquasure Quantum UV series 18GPM Chamber Bracket",
+    "category": "spare-parts",
+    "brand": "Aquasure",
+    "description": "Aquasure Quantum UV series 18GPM Chamber Bracket. Parts from the manufacturer catalog. Check the listed model and installation compatibility before ordering.",
+    "price": 1274,
+    "wholesalePrice": 956,
+    "image": "https://cdn.shopify.com/s/files/1/0298/3097/1451/files/AP-UV-18BRACKET_01.jpg?v=1707863517",
+    "stock": 95,
+    "available": true,
+    "specifications": {
+      "Model / SKU": "AP-UV-18BRACKET",
+      "Product family": "Parts"
+    },
+    "rating": 0,
+    "reviewCount": 0,
+    "tags": [
+      "spare-parts",
+      "parts"
+    ],
+    "featured": false,
+    "sourceUrl": "https://aquasureusa.com/products/aquasure-quantum-uv-series-18gpm-camber-bracket",
+    "sourceCurrency": "USD",
+    "sourcePrice": "14.99",
+    "catalogCheckedAt": "2026-10-24",
+    "sampleInventory": true
+  },
+  {
+    "id": "SP006",
+    "name": "Aquasure Quantum UV series 8 and 12 GPM Chamber Bracket",
+    "category": "spare-parts",
+    "brand": "Aquasure",
+    "description": "Aquasure Quantum UV series 8 and 12 GPM Chamber Bracket. Parts from the manufacturer catalog. Check the listed model and installation compatibility before ordering.",
+    "price": 1274,
+    "wholesalePrice": 956,
+    "image": "https://cdn.shopify.com/s/files/1/0298/3097/1451/files/AP-UV-812BRACKET_01.jpg?v=1707868819",
+    "stock": 22,
+    "available": true,
+    "specifications": {
+      "Model / SKU": "AP-UV-812BRACKET",
+      "Product family": "Parts"
+    },
+    "rating": 0,
+    "reviewCount": 0,
+    "tags": [
+      "spare-parts",
+      "parts"
+    ],
+    "featured": false,
+    "sourceUrl": "https://aquasureusa.com/products/aquasure-quantum-uv-series-8-and-12-gpm-chamber-bracket",
+    "sourceCurrency": "USD",
+    "sourcePrice": "14.99",
+    "catalogCheckedAt": "2026-10-24",
+    "sampleInventory": true
+  },
+  {
+    "id": "SP007",
+    "name": "Blue Replacement Washer - Fortitude Pro Manual Valve",
+    "category": "spare-parts",
+    "brand": "Aquasure",
+    "description": "Blue Replacement Washer - Fortitude Pro Manual Valve. Parts from the manufacturer catalog. Check the listed model and installation compatibility before ordering.",
+    "price": 254,
+    "wholesalePrice": 190,
+    "image": "https://cdn.shopify.com/s/files/1/0298/3097/1451/files/AP-FP-MFVORING-BL_01.jpg?v=1707859710",
+    "stock": 29,
+    "available": true,
+    "specifications": {
+      "Model / SKU": "AP-FP-MFVORING-BL",
+      "Product family": "Parts"
+    },
+    "rating": 0,
+    "reviewCount": 0,
+    "tags": [
+      "spare-parts",
+      "parts"
+    ],
+    "featured": false,
+    "sourceUrl": "https://aquasureusa.com/products/blue-replacement-washer",
+    "sourceCurrency": "USD",
+    "sourcePrice": "2.99",
+    "catalogCheckedAt": "2026-10-24",
+    "sampleInventory": true
+  },
+  {
+    "id": "SP008",
+    "name": "Quantum Series | 8 GPM Whole House Ultraviolet UV Replacement Quartz Sleeve Tube AF-UV8-SLEEVE, Compatible with AS-UV8S",
+    "category": "spare-parts",
+    "brand": "Aquasure",
+    "description": "Quantum Series | 8 GPM Whole House Ultraviolet UV Replacement Quartz Sleeve Tube AF-UV8-SLEEVE, Compatible with AS-UV8S. Parts from the manufacturer catalog. Check the listed model and installation compatibility before ordering.",
+    "price": 3399,
+    "wholesalePrice": 2549,
+    "image": "https://cdn.shopify.com/s/files/1/0298/3097/1451/files/AF-UV8-SLEEVE_No-Shadow.jpg?v=1703804741",
+    "stock": 36,
+    "available": true,
+    "specifications": {
+      "Model / SKU": "AF-UV8-SLEEVE",
+      "Product family": "Parts"
+    },
+    "rating": 0,
+    "reviewCount": 0,
+    "tags": [
+      "spare-parts",
+      "parts"
+    ],
+    "featured": false,
+    "sourceUrl": "https://aquasureusa.com/products/quantum-series-8gpm-whole-house-uv-replacement-quartz-sleeve-af-uv8-sleeve",
+    "sourceCurrency": "USD",
+    "sourcePrice": "39.99",
+    "catalogCheckedAt": "2026-10-24",
+    "sampleInventory": true
+  },
+  {
+    "id": "SP009",
+    "name": "Quantum Series | 18 GPM High Output Ultraviolet UV Replacement Quartz Sleeve Tube AF-UV18-SLEEVE, Compatible with AS-UV18HO & AS-WHUV18HO",
+    "category": "spare-parts",
+    "brand": "Aquasure",
+    "description": "Quantum Series | 18 GPM High Output Ultraviolet UV Replacement Quartz Sleeve Tube AF-UV18-SLEEVE, Compatible with AS-UV18HO & AS-WHUV18HO. Parts from the manufacturer catalog. Check the listed model and installation compatibility before ordering.",
+    "price": 4249,
+    "wholesalePrice": 3187,
+    "image": "https://cdn.shopify.com/s/files/1/0298/3097/1451/products/AF-UV18-SLEEVE.jpg?v=1681764684",
+    "stock": 43,
+    "available": true,
+    "specifications": {
+      "Model / SKU": "AF-UV18-SLEEVE",
+      "Product family": "Parts"
+    },
+    "rating": 0,
+    "reviewCount": 0,
+    "tags": [
+      "spare-parts",
+      "parts"
+    ],
+    "featured": false,
+    "sourceUrl": "https://aquasureusa.com/products/quantum-series-18gpm-high-output-uv-replacement-quartz-sleeve",
+    "sourceCurrency": "USD",
+    "sourcePrice": "49.99",
+    "catalogCheckedAt": "2026-10-24",
+    "sampleInventory": true
+  },
+  {
+    "id": "SP010",
+    "name": "Aquasure Fortitude Series Water Treatment System Electronic Control Valve",
+    "category": "spare-parts",
+    "brand": "Aquasure",
+    "description": "Aquasure Fortitude Series Water Treatment System Electronic Control Valve. Parts from the manufacturer catalog. Check the listed model and installation compatibility before ordering.",
+    "price": 23799,
+    "wholesalePrice": 17849,
+    "image": "https://cdn.shopify.com/s/files/1/0298/3097/1451/products/FortitudeHeadReplacement_1000x_395d376e-5823-489a-ae79-a32991a46305.jpg?v=1670375057",
+    "stock": 50,
+    "available": true,
+    "specifications": {
+      "Model / SKU": "AP-FP-HEAD",
+      "Product family": "Parts",
+      "Tank Size": "8 to 10 inch Tank Dia.",
+      "+ Bypass & Drain Line": "No"
+    },
+    "rating": 0,
+    "reviewCount": 0,
+    "tags": [
+      "spare-parts",
+      "parts"
+    ],
+    "featured": false,
+    "sourceUrl": "https://aquasureusa.com/products/aquasure-fortitude-series-water-treatment-system-electronic-control-valve",
+    "sourceCurrency": "USD",
+    "sourcePrice": "279.99",
+    "catalogCheckedAt": "2026-10-24",
+    "sampleInventory": true
+  }
+]
